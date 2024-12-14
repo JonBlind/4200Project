@@ -1,0 +1,8 @@
+Query,Precision@4,NDCG@4
+A high-speed car chase,0.75,0.9064043257760946
+An intense melee combat scene,1.0,1.0
+Character sobbing from an emotional breakdown,1.0,1.0
+Character being interrogated,1.0,1.0
+Two characters having a casual conversation,1.0,0.5935866999947345
+A car driving normally or calmly,1.0,0.648198370923679
+Characters Climbing Large Structure,1.0,1.0

@@ -1,0 +1,26 @@
+,A high-speed car chase,An intense melee combat scene,Character sobbing from an emotional breakdown,Character being interrogated,Two characters having a casual conversation,A car driving normally or calmly,Characters Climbing Large Structure
+(car)_rushhour,1,0,0,1,2,2,0
+(car)_taxi,1,0,0,0,0,2,0
+(car)_wickdrivesoff,1,0,0,0,0,2,0
+(chase)_fnf,2,0,0,0,0,1,0
+(chase)_ride1,2,0,0,0,0,1,0
+(chase)_ride2,2,0,0,0,0,1,0
+(fight)_oldboy,0,2,0,0,0,0,0
+(fight)_raid2,0,2,0,0,0,0,0
+(fight)_wick,0,2,0,0,0,0,0
+(inter)_batman1,0,0,0,2,1,0,0
+(inter)_batman2,0,1,0,2,1,0,0
+(inter)_lawabidingcitizen,0,0,0,2,1,0,0
+(inter)_matrix,0,0,0,2,1,0,0
+(sob)_garf,0,0,2,0,0,0,0
+(sob)_hugh,0,0,2,0,0,0,0
+(sob)_interstellar,0,0,2,0,0,0,0
+(sob)_toby,0,0,2,0,0,0,0
+(talk)_diary,0,0,0,1,2,0,0
+(talk)_gwh,0,0,0,1,2,0,0
+(talk)_ted,0,0,0,0,2,0,0
+(talk)_wolf,0,0,0,1,2,0,0
+(climb)_missimp2,0,0,0,0,0,0,2
+(climb)_missimp4,0,0,0,0,0,0,2
+(climb)_pointbreak,0,0,0,0,0,0,2
+(climb)_vertlimit,0,0,0,0,0,0,2

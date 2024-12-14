@@ -1,0 +1,128 @@
+{
+    "A high-speed car chase": [
+        {
+            "shot": "(chase)_ride1",
+            "similarity": 0.30426904559135437
+        },
+        {
+            "shot": "(chase)_ride2",
+            "similarity": 0.2879093885421753
+        },
+        {
+            "shot": "(climb)_missimp4",
+            "similarity": 0.2697575092315674
+        },
+        {
+            "shot": "(chase)_fnf",
+            "similarity": 0.2644396126270294
+        }
+    ],
+    "An intense melee combat scene": [
+        {
+            "shot": "(fight)_raid2",
+            "similarity": 0.28436538577079773
+        },
+        {
+            "shot": "(fight)_oldboy",
+            "similarity": 0.2684113085269928
+        },
+        {
+            "shot": "(fight)_wick",
+            "similarity": 0.2584303319454193
+        },
+        {
+            "shot": "(inter)_batman2",
+            "similarity": 0.25552603602409363
+        }
+    ],
+    "Character sobbing from an emotional breakdown": [
+        {
+            "shot": "(sob)_hugh",
+            "similarity": 0.28817397356033325
+        },
+        {
+            "shot": "(sob)_toby",
+            "similarity": 0.2794545292854309
+        },
+        {
+            "shot": "(sob)_interstellar",
+            "similarity": 0.2773137092590332
+        },
+        {
+            "shot": "(sob)_garf",
+            "similarity": 0.2720402479171753
+        }
+    ],
+    "Character being interrogated": [
+        {
+            "shot": "(inter)_lawabidingcitizen",
+            "similarity": 0.28453999757766724
+        },
+        {
+            "shot": "(inter)_matrix",
+            "similarity": 0.2811374068260193
+        },
+        {
+            "shot": "(inter)_batman1",
+            "similarity": 0.2800767421722412
+        },
+        {
+            "shot": "(inter)_batman2",
+            "similarity": 0.27526307106018066
+        }
+    ],
+    "Two characters having a casual conversation": [
+        {
+            "shot": "(talk)_wolf",
+            "similarity": 0.2573394179344177
+        },
+        {
+            "shot": "(inter)_lawabidingcitizen",
+            "similarity": 0.2543150782585144
+        },
+        {
+            "shot": "(inter)_batman2",
+            "similarity": 0.2419925034046173
+        },
+        {
+            "shot": "(inter)_batman1",
+            "similarity": 0.24064819514751434
+        }
+    ],
+    "A car driving normally or calmly": [
+        {
+            "shot": "(chase)_ride1",
+            "similarity": 0.2723439931869507
+        },
+        {
+            "shot": "(chase)_ride2",
+            "similarity": 0.26846158504486084
+        },
+        {
+            "shot": "(car)_rushhour",
+            "similarity": 0.2609338164329529
+        },
+        {
+            "shot": "(car)_taxi",
+            "similarity": 0.26047495007514954
+        }
+    ],
+    "Characters Climbing Large Structure": [
+        {
+            "shot": "(climb)_missimp2",
+            "similarity": 0.2839050590991974
+        },
+        {
+            "shot": "(climb)_vertlimit",
+            "similarity": 0.28146928548812866
+        },
+        {
+            "shot": "(climb)_missimp4",
+            "similarity": 0.26506948471069336
+        },
+        {
+            "shot": "(climb)_pointbreak",
+            "similarity": 0.2522033452987671
+        }
+    ]
+}
